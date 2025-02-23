@@ -1,4 +1,4 @@
-# Food Freshness Detection Dataset for YOLOv8 Fine-Tuning
+# Food Freshness Detection Dataset for YOLOv8 
 
 ## Dataset Overview
 
