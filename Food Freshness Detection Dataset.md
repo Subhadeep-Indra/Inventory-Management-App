@@ -57,6 +57,16 @@ Here are some sample annotated images showcasing fresh and spoiled fruits with b
 
 ---
 
+![Image](https://github.com/user-attachments/assets/68d3daac-0663-46bc-93c3-ebdb24267a7c)
+*Caption: Bananas*
+![Image](https://github.com/user-attachments/assets/e9b5d747-e94a-4f12-962d-493e0a66186d)
+*Caption: Oranges*
+![Image](https://github.com/user-attachments/assets/e3ce5d54-5d70-4ad5-aa07-7d855c593d92)
+*Caption: Pomegranates*
+![Image](https://github.com/user-attachments/assets/4463d11c-2d68-4af8-bd48-bd30f1ad4141)
+![Image](https://github.com/user-attachments/assets/8e5b88be-4685-4672-8534-d1301087bc8f)
+![Image](https://github.com/user-attachments/assets/f54aa7f9-71b1-4e0f-8c6b-47538593c4d1)
+
 ## Accessing the Dataset
 
 This dataset is hosted on Google Drive and can be accessed using the following link:  
