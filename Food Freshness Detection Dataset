@@ -71,6 +71,10 @@ Counting display: Made the detected number of fresh and rotten fruits show direc
 
 Visualization Tools: Annotated images were displayed using Matplotlib.
 
+Sample Annotated Images
+
+Here are some sample annotated images showcasing fresh and spoiled fruits with bounding boxes:
+
 Accessing the Dataset
 
 This dataset is hosted on Google Drive and can be accessed by the following link:
